@@ -2,7 +2,7 @@
 
 - This web application can be used for searching movies.
 
-- User can view extra details about the movie upon clicking its poster like genre, cast, plot, runtime etc. 
+- User can view extra details about the movie upon clicking its poster like movie name and year of release. 
 
 - Weekly top 20 trending movies section.
 
